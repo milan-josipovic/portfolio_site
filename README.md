@@ -1,2 +1,2 @@
 # portfolio_site
-Personal portfolio site
+my personal portfolio site
